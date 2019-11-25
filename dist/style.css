@@ -1,0 +1,53 @@
+body{
+  font-family: Space Mono, Arial, sans-serif;
+  margin: auto;
+  width: 90%;
+  color: #263238;
+  background-color: #CFD8DC;
+}
+
+main header{
+  text-align:center;
+}
+
+
+#image {
+  max-width: 100%;
+  display: block;
+  height: auto;
+  margin: auto;
+  border-radius: 10px;
+}
+#timeline{
+  display:inline;
+}
+#img-caption{
+   margin: auto;
+}
+#summary{
+  text-align: center;
+}
+.timeline{
+ font-weight: bold;
+  display: block;
+  text-align: left;
+}
+#tribute-link{
+  text-align: center;
+}
+li{
+  text-align: left;
+}
+
+#title > h1, p{
+  margin-bottom: 0px;
+  margin-top: 0px;
+}
+
+#main > h3{
+  text-align:center;
+  text-decoration: none;
+}
+a{
+  text-decoration: none;
+}
